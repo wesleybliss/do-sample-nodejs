@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "nodemon ./index.js",
-    "start": "node ./bin/www"
+    "start": "node ./index.js"
   },
   "dependencies": {
     "clean-css": "^4.1.11",
